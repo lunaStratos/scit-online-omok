@@ -14,13 +14,13 @@ Java 1.8 + oracle Sql
 
 <img src="img/main.jpg"/>
 <br>
+<img src="img/notice.png"/>
+<br>
 <img src="img/sign-in.png"/>
 <br>
 <img src="img/room-list.png"/>
 <br>
 <img src="img/room-list2.png"/>
-<br>
-<img src="img/omok-main.png"/>
 <br>
 <img src="img/omok-main.png"/>
 <br>
@@ -32,6 +32,3 @@ Java 1.8 + oracle Sql
 <br>
 <img src="img/omok-result.png"/>
 <br>
-<img src="img/notice.png"/>
-<br>
-
