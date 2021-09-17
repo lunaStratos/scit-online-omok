@@ -9,3 +9,29 @@ Online Omok Project. used Java(Swing And Socket)
 Swing을 이용했습니다. 
 
 Java 1.8 + oracle Sql
+
+# 구동화면
+
+<img src="img/main.jpg"/>
+<br>
+<img src="img/sign-in.png"/>
+<br>
+<img src="img/room-list.png"/>
+<br>
+<img src="img/room-list2.png"/>
+<br>
+<img src="img/omok-main.png"/>
+<br>
+<img src="img/omok-main.png"/>
+<br>
+<img src="img/omok-main2.png"/>
+<br>
+<img src="img/omok-error.png"/>
+<br>
+<img src="img/omok-ing.png"/>
+<br>
+<img src="img/omok-result.png"/>
+<br>
+<img src="img/notice.png"/>
+<br>
+
